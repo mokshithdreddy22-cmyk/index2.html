@@ -95,7 +95,7 @@
     <b>Advantages:</b><br>
     Low carbon emissions, reliable baseload power, high energy density.<br>
 
-    <b>We are One of the biggest Nuclear Plant in the world  , we support India with our full power , though we don't have real nuc plant and all these industries  now we will     have it in future so rembember that all of this will one day become true and we indians will show the worth of us to this world </b>
+    <b>We are One of the biggest Nuclear Plant in the world  , we support India with our full power , though we don't have real nuc plant and all these industries  now we     will  have it in future so rembember that all of this will one day become true and we indians will show the worth of us to this world </b>
 </p>
 
 </body>
