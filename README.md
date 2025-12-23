@@ -22,7 +22,7 @@
         p {
             /* Full white background with 90% opacity */
             background-color: rgba(255, 255, 255, 0.9); 
-            color: black;
+            color: White ;
             padding: 15px;
             border-radius: 8px;
             margin-bottom: 20px; /* Ensures space below each paragraph */
