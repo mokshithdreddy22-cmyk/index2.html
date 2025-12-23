@@ -7,7 +7,7 @@
     <style>
         /* General body styles with background image */
         body {
-            background-image: url("i0.wp.com");
+            background-image: url("https://ipecexpo.in/the-impact-of-industries-on-indias-economy/");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
