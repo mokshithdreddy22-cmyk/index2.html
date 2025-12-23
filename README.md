@@ -5,51 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>THE REDDY GROUP OF INDUSTRIES</title>
     <style>
-        /* General body styles with background image, ensuring good defaults */
+        /* General body styles with background image */
         body {
-            /* Using a relative path or direct URL for the background image */
-            background-image: url("https://i0.wp.com/www.india-briefing.com/news/wp-content/uploads/2017/09/India-Briefing-Industrial-Licensing-Norms-and-Policy.jpg?ssl=1");
-            background-size: cover; /* Covers the entire background area */
+            background-image: url("i0.wp.com");
+            background-size: cover;
             background-repeat: no-repeat;
-            background-attachment: fixed; /* Background image stays fixed while scrolling */
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Added common sans-serif fonts */
+            background-attachment: fixed;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             color: red;
-            padding: 20px; /* Reduced padding for better mobile responsiveness */
-            margin: 0; /* Remove default margin */
-            line-height: 1.6; /* Improved readability for paragraphs */
+            padding: 20px;
+            margin: 0;
+            line-height: 1.6;
         }
 
         /* Styles for paragraphs (content containers) */
         p {
-            background-color: rgba(255, 255, 255, 0.7); /* Use white background with 90% opacity */
+            /* Full white background with 90% opacity */
+            background-color: rgba(255, 255, 255, 0.9); 
             color: black;
-            padding: 15px; /* Increased padding slightly */
+            padding: 15px;
             border-radius: 8px;
-            margin-bottom: 20px; /* Added spacing between sections */
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Added subtle shadow for depth */
+            margin-bottom: 20px; /* Ensures space below each paragraph */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            /* Important: Ensures the paragraph acts as a distinct block container */
+            display: block; 
+            box-sizing: border-box; /* Includes padding and border in element's total width and height */
         }
 
         /* Styles for headings (h1 to h6) */
         h1, h2, h3, h4, h5, h6 {
-            background-color: rgba(0, 0, 0, 0.7); /* Slightly darker black background with 70% opacity */
-            color: red ; /* Changed text color to white for better contrast against the dark background */
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
             display: inline-block;
-            padding: 8px 15px; /* Increased padding slightly */
-            border-radius: 8px;
-            margin-top: 25px; /* Added spacing above headings */
-            margin-bottom: 10px; /* Added spacing below headings */
-            text-shadow: 1px 1px 2px black; /* Added text shadow for visibility over the background image */
+            padding: 8px 15px;
+            border-radius: 6px;
+            margin-top: 25px; /* Ensures space above each heading */
+            margin-bottom: 10px;
+            text-shadow: 1px 1px 2px black;
         }
 
-        /* Specific style for the disclaimer text in the last paragraph for emphasis */
+        /* Specific style for the disclaimer text in the last paragraph */
         .disclaimer {
             font-size: 0.9em;
-            color: #555; /* Darker gray color */
+            color: #555;
             display: block;
             margin-top: 15px;
             border-top: 1px solid #ccc;
             padding-top: 10px;
             font-style: italic;
+        }
+        
+        /* Style for lists within paragraphs for proper formatting and margins */
+        p ul, p ol {
+            margin-left: 20px;
+            margin-top: 10px;
+            margin-bottom: 10px;
         }
 
     </style>
