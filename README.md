@@ -64,7 +64,7 @@ Competition: The industry competes with local jaggery (gur) and khandsari produc
 <b>Efforts like the Sustainable Sugarcane Initiative (SSI), promoting efficient irrigation and better farming practices, and government policies encouraging ethanol production aim to address these issues and enhance the industry's sustainability and profitability</b>
 </p>
 
-<h4>About Iron & Steel</h4>
+<h4>About Iron & Steel Industries</h4>
 <p>
     <b>Raw Materials:</b> Iron ore, coking coal, limestone, manganese.<br><br>
 
