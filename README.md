@@ -7,7 +7,7 @@
     <style>
         /* General body styles with background image */
         body {
-            background-image: url("[(https://ipecexpo.in/wp-content/uploads/2024/02/02-02-2024-Impact-of-Industries-on-Indias-Economy.png)](https://ipecexpo.in/wp-content/uploads/2024/02/02-02-2024-Impact-of-Industries-on-Indias-Economy.png)");
+            background-image: url("(https://ipecexpo.in/wp-content/uploads/2024/02/02-02-2024-Impact-of-Industries-on-Indias-Economy.png)");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
