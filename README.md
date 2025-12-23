@@ -7,13 +7,12 @@
     <style>
         /* General body styles with background image */
         body {
-            /* Fix 1: Removed erroneous markdown link formatting from the URL string */
-            background-image: url("https://ipecexpo.in/wp-content/uploads/2024/02/02-02-2024-Impact-of-Industries-on-Indias-Economy.png");
+            background-image: url("i0.wp.com");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: red; /* This text color affects headings */
+            color: red;
             padding: 20px;
             margin: 0;
             line-height: 1.6;
@@ -23,13 +22,12 @@
         p {
             /* Full white background with 90% opacity */
             background-color: rgba(255, 255, 255, 0.9); 
-            /* Fix 2: Changed paragraph text color from "White" (invisible on white background) to "black" for readability */
-            color: black; 
+            color: black;
             padding: 15px;
             border-radius: 8px;
             margin-bottom: 20px; /* Ensures space below each paragraph */
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            /* Ensures the paragraph acts as a distinct block container */
+            /* Important: Ensures the paragraph acts as a distinct block container */
             display: block; 
             box-sizing: border-box; /* Includes padding and border in element's total width and height */
         }
@@ -37,7 +35,7 @@
         /* Styles for headings (h1 to h6) */
         h1, h2, h3, h4, h5, h6 {
             background-color: rgba(0, 0, 0, 0.7);
-            color: white; /* Headings remain white, visible on the dark background */
+            color: white;
             display: inline-block;
             padding: 8px 15px;
             border-radius: 6px;
@@ -49,7 +47,7 @@
         /* Specific style for the disclaimer text in the last paragraph */
         .disclaimer {
             font-size: 0.9em;
-            color: #555; /* Darker gray color for contrast */
+            color: #555;
             display: block;
             margin-top: 15px;
             border-top: 1px solid #ccc;
