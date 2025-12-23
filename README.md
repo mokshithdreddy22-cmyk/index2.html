@@ -7,7 +7,7 @@
 
     <style>
         body {
-            background-image: url("https://cdn.corporatefinanceinstitute.com/assets/Industry-1024x576.jpeg");
+            background-image: url("https://cdn.corporatefinanceinstitute.com/assets/Industry-1024x576.jpeg") ;
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
