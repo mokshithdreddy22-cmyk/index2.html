@@ -7,7 +7,7 @@
 
     <style>
         body {
-            background-image: url"https://ipecexpo.in/wp-content/uploads/2024/02/02-02-2024-Impact-of-Industries-on-Indias-Economy.png";
+            background-image: url("https://cdn.corporatefinanceinstitute.com/assets/Industry-1024x576.jpeg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
