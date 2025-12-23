@@ -8,7 +8,7 @@
     <style>
         body {
             /* Use raw GitHub URL for background image */
-            background-image: url("https://raw.githubusercontent.com/user-attachments/assets/main/sunset-6226244_1280.jpg");
+            background-image: url("https://sunset-6226244_1280.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
