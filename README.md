@@ -21,7 +21,7 @@
 
         /* Styles for paragraphs (content containers) */
         p {
-            background-color: rgba(255, 255, 255, 0.9); /* Use white background with 90% opacity */
+            background-color: rgba(255, 255, 255, 0.7); /* Use white background with 90% opacity */
             color: black;
             padding: 15px; /* Increased padding slightly */
             border-radius: 8px;
@@ -32,10 +32,10 @@
         /* Styles for headings (h1 to h6) */
         h1, h2, h3, h4, h5, h6 {
             background-color: rgba(0, 0, 0, 0.7); /* Slightly darker black background with 70% opacity */
-            color: white; /* Changed text color to white for better contrast against the dark background */
+            color: red ; /* Changed text color to white for better contrast against the dark background */
             display: inline-block;
             padding: 8px 15px; /* Increased padding slightly */
-            border-radius: 6px;
+            border-radius: 8px;
             margin-top: 25px; /* Added spacing above headings */
             margin-bottom: 10px; /* Added spacing below headings */
             text-shadow: 1px 1px 2px black; /* Added text shadow for visibility over the background image */
